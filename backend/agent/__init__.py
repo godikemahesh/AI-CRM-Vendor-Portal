@@ -1,0 +1,1 @@
+# HobbyFi Copilot — Agent Package
